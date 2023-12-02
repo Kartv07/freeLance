@@ -36,7 +36,7 @@ export default function Home() {
           <Image src={illustration} alt='illustration' className="w-[870px] mx-auto h-[489px]" />
         </div>
       </div>
-      <div className='flex mx-auto items-center justify-center text-[#2B2B2B] text-xs font-light leading-normal flex-col gap-[3px]'>Scroll down
+      <div className='flex mt-[78px] mx-auto items-center justify-center text-[#2B2B2B] text-xs font-light leading-normal flex-col gap-[3px]'>Scroll down
         <Image src={drop} alt="drop" className='w-[15px] h-[7.7px]' />
       </div>
 
@@ -70,27 +70,27 @@ export default function Home() {
             </div>
             <div className='flex items-center p-[5px] w-[284px] text-zinc-800 gap-3 rounded-[55px] bg-zinc-950 text-[16px] font-normal leading-4 border border-solid border-zinc-500 backdrop-blur-[20px]'>
               <Image src={flowers} alt="img" className='w-[68px] h-[68px] rounded-full' />
-              <div>MonkeyIslander872</div>
+              <div>mean_deal_</div>
             </div>
           </div>
           <div className='flex flex-col md:flex-row gap-6'>
             <div className='flex items-center p-[5px] w-[284px] text-zinc-800 gap-3 rounded-[55px] bg-zinc-950 text-[16px] font-normal leading-4 border border-solid border-zinc-500 backdrop-blur-[20px]'>
               <Image src={emoji} alt="img" className='w-[68px] h-[68px] rounded-full' />
-              <div>MonkeyIslander872</div>
+              <div>TennisChallenger</div>
             </div>
             <div className='flex items-center p-[5px] w-[284px] text-zinc-800 gap-3 rounded-[55px] bg-zinc-950 text-[16px] font-normal leading-4 border border-solid border-zinc-500 backdrop-blur-[20px]'>
               <Image src={pink} alt="img" className='w-[68px] h-[68px] rounded-full' />
-              <div>MonkeyIslander872</div>
+              <div>DoozieWoozie</div>
             </div>
           </div>
           <div className='flex flex-col md:flex-row gap-6'>
             <div className='flex items-center p-[5px] w-[284px] text-zinc-800 gap-3 rounded-[55px] bg-zinc-950 text-[16px] font-normal leading-4 border border-solid border-zinc-500 backdrop-blur-[20px]'>
               <Image src={tired} alt="img" className='w-[68px] h-[68px] rounded-full' />
-              <div>MonkeyIslander872</div>
+              <div>tired0fbeIngWired</div>
             </div>
             <div className='flex items-center p-[5px] w-[284px] text-zinc-800 gap-3 rounded-[55px] bg-zinc-950 text-[16px] font-normal leading-4 border border-solid border-zinc-500 backdrop-blur-[20px]'>
               <Image src={dragon} alt="img" className='w-[68px] h-[68px] rounded-full' />
-              <div>MonkeyIslander872</div>
+              <div>Greendragon_</div>
             </div>
           </div>
         </div>
